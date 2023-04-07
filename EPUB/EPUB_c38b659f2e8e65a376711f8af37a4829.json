@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/su-khac-biet-giua-nguoi-giau-va-nguoi-ngheo_19628.html",
+    "title" : "Sự Khác Biệt Giữa Người Giàu Và Người Nghèo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tom Corley",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 30572,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_c38b659f2e8e65a376711f8af37a4829.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_c38b659f2e8e65a376711f8af37a4829.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5155,
+    "title" : "su-khac-1"
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4363,
+    "title" : "su-khac-2"
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4617,
+    "title" : "su-khac-3"
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2962,
+    "title" : "su-khac-4"
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "su-khac-5"
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "su-khac-6"
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3383,
+    "title" : "su-khac-7"
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "su-khac-8"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-1.mp3",
+    "title" : "su-khac-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-2.mp3",
+    "title" : "su-khac-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-3.mp3",
+    "title" : "su-khac-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-4.mp3",
+    "title" : "su-khac-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-5.mp3",
+    "title" : "su-khac-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-6.mp3",
+    "title" : "su-khac-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-7.mp3",
+    "title" : "su-khac-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-khac-1/su-khac-8.mp3",
+    "title" : "su-khac-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

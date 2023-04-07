@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lao-vao-lua_19695.html",
+    "title" : "Lao Vào Lửa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Thụy Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 7453,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_6e4b9cc207f79d9b832535f8fee5345a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_6e4b9cc207f79d9b832535f8fee5345a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "LAO VAO LUA 01"
+  }, {
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2155,
+    "title" : "LAO VAO LUA 02"
+  }, {
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2338,
+    "title" : "LAO VAO LUA 03"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_01.mp3",
+    "title" : "LAO VAO LUA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_02.mp3",
+    "title" : "LAO VAO LUA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_03.mp3",
+    "title" : "LAO VAO LUA 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

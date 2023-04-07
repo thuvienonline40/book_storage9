@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-vo_19853.html",
+    "title" : "Bỉ Vỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 17054,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_eba531b165407da24203a724efe29690.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_eba531b165407da24203a724efe29690.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4377,
+    "title" : "bi-vo-nguyen-hong p1"
+  }, {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "bi-vo-nguyen-hong p2"
+  }, {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4159,
+    "title" : "bi-vo-nguyen-hong p3"
+  }, {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p4end.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4233,
+    "title" : "bi-vo-nguyen-hong p4end"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p1.mp3",
+    "title" : "bi-vo-nguyen-hong p1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p2.mp3",
+    "title" : "bi-vo-nguyen-hong p2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p3.mp3",
+    "title" : "bi-vo-nguyen-hong p3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-vo-nguyen-hong.sna/bi-vo-nguyen-hong_p4end.mp3",
+    "title" : "bi-vo-nguyen-hong p4end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

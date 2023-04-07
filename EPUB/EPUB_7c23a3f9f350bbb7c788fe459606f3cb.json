@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/but-la-hinh-hai-but-la-tam-thuc_19256.html",
+    "title" : "Bụt Là Hình Hài, Bụt Là Tâm Thức",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 25947,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_7c23a3f9f350bbb7c788fe459606f3cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_7c23a3f9f350bbb7c788fe459606f3cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/but-la-1/but-la-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "but-la-1"
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "but-la-2"
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "but-la-3"
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "but-la-4"
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "but-la-5"
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "but-la-6"
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "but-la-7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/but-la-1/but-la-1.mp3",
+    "title" : "but-la-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-2.mp3",
+    "title" : "but-la-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-3.mp3",
+    "title" : "but-la-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-4.mp3",
+    "title" : "but-la-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-5.mp3",
+    "title" : "but-la-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-6.mp3",
+    "title" : "but-la-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/but-la-1/but-la-7.mp3",
+    "title" : "but-la-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

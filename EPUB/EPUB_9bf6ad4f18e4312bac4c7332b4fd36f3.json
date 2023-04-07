@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chua-mot-lan-dau-sao-la-tuoi-tre_19707.html",
+    "title" : "Chưa Một Lần Đau Sao Là Tuổi Trẻ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Từ Lỗi Tuyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22251,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_9bf6ad4f18e4312bac4c7332b4fd36f3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_9bf6ad4f18e4312bac4c7332b4fd36f3.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "phan-1"
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1620,
+    "title" : "phan-2"
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "phan-3"
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "phan-4"
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3787,
+    "title" : "phan-5"
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2077,
+    "title" : "phan-6"
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-7-end.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2976,
+    "title" : "phan-7-end"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-1.mp3",
+    "title" : "phan-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-2.mp3",
+    "title" : "phan-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-3.mp3",
+    "title" : "phan-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-4.mp3",
+    "title" : "phan-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-5.mp3",
+    "title" : "phan-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-6.mp3",
+    "title" : "phan-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-mot-lan-dau-sao-la-tuoi-tre/phan-7-end.mp3",
+    "title" : "phan-7-end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

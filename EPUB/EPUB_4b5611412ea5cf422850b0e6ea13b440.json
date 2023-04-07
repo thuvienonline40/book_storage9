@@ -1,0 +1,196 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sen-no-troi-phuong-ngoai_19273.html",
+    "title" : "Sen Nở Trời Phương Ngoại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 32696,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_4b5611412ea5cf422850b0e6ea13b440.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_4b5611412ea5cf422850b0e6ea13b440.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "01 Phan mot - Phap hoa- Dao but Dai thua"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 794,
+    "title" : "02 Pham thu nhat- Tua"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "03 Pham thu hai- Phuong tien"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "03B Pham thu hai- Phuong tien tt"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1384,
+    "title" : "04 Pham thu ba- Thi du"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 962,
+    "title" : "05 Pham thu tu- Tin giai"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1051,
+    "title" : "06 Pham thu nam- Duoc thao"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1698,
+    "title" : "07 Pham thu sau- pham thu muoi"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1438,
+    "title" : "08 Pham thu muoi mot- Hien bao thap"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2772,
+    "title" : "09 Pham thu muoi hai- pham thu muoi sau"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1942,
+    "title" : "10 Pham thu muoi bay- pham thu hai muoi"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2437,
+    "title" : "11 Pham thu hai muoi ba- pham thu hai muoi bon"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "12 Pham thu hai muoi lam"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3590,
+    "title" : "13 Pham thu hai muoi lam tt"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 823,
+    "title" : "14 Pham thu hai muoi sau- pham thu hai muoi tam"
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 877,
+    "title" : "15 Tong quan- ket thuc"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-01.mp3",
+    "title" : "01 Phan mot - Phap hoa- Dao but Dai thua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-02.mp3",
+    "title" : "02 Pham thu nhat- Tua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-03.mp3",
+    "title" : "03 Pham thu hai- Phuong tien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-04.mp3",
+    "title" : "03B Pham thu hai- Phuong tien tt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-05.mp3",
+    "title" : "04 Pham thu ba- Thi du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-06.mp3",
+    "title" : "05 Pham thu tu- Tin giai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-07.mp3",
+    "title" : "06 Pham thu nam- Duoc thao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-08.mp3",
+    "title" : "07 Pham thu sau- pham thu muoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-09.mp3",
+    "title" : "08 Pham thu muoi mot- Hien bao thap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-10.mp3",
+    "title" : "09 Pham thu muoi hai- pham thu muoi sau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-11.mp3",
+    "title" : "10 Pham thu muoi bay- pham thu hai muoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-12.mp3",
+    "title" : "11 Pham thu hai muoi ba- pham thu hai muoi bon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-13.mp3",
+    "title" : "12 Pham thu hai muoi lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-14.mp3",
+    "title" : "13 Pham thu hai muoi lam tt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-15.mp3",
+    "title" : "14 Pham thu hai muoi sau- pham thu hai muoi tam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sen-no-01/sen-no-16.mp3",
+    "title" : "15 Tong quan- ket thuc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

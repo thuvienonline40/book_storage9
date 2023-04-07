@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dem-giang-sinh-ky-dieu_19657.html",
+    "title" : "Đêm Giáng Sinh Kỳ Diệu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 4419,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_5330ed10d2b576fcf7bbfdac02b605b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_5330ed10d2b576fcf7bbfdac02b605b8.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/bo-do-mau-do-cua-ong-gia-noel.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "bo-do-mau-do-cua-ong-gia-noel"
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/cau-chuyen-dem-giang-sinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 360,
+    "title" : "cau-chuyen-dem-giang-sinh"
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/dem-noel-dep-nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 360,
+    "title" : "dem-noel-dep-nhat"
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/mot-mon-qua-y-nghia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 575,
+    "title" : "mot-mon-qua-y-nghia"
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/nhung-qua-trung-phuc-sinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 586,
+    "title" : "nhung-qua-trung-phuc-sinh"
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/su-tich-ong-gia-noen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 754,
+    "title" : "su-tich-ong-gia-noen"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/bo-do-mau-do-cua-ong-gia-noel.mp3",
+    "title" : "bo-do-mau-do-cua-ong-gia-noel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/cau-chuyen-dem-giang-sinh.mp3",
+    "title" : "cau-chuyen-dem-giang-sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/dem-noel-dep-nhat.mp3",
+    "title" : "dem-noel-dep-nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/mot-mon-qua-y-nghia.mp3",
+    "title" : "mot-mon-qua-y-nghia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/nhung-qua-trung-phuc-sinh.mp3",
+    "title" : "nhung-qua-trung-phuc-sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-do-mau-do-cua-ong-gia-noel/su-tich-ong-gia-noen.mp3",
+    "title" : "su-tich-ong-gia-noen",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

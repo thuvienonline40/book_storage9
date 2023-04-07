@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngon-ngu-cua-chua-nhung-bang-chung-khoa-hoc-ve-duc-tin_19643.html",
+    "title" : "Ngôn Ngữ Của Chúa (Những Bằng Chứng Khoa Học Về Đức Tin)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Francis Sellers Collins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 40990,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_776326da49e919633e54b3bb76612932.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_776326da49e919633e54b3bb76612932.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8334,
+    "title" : "ngon-ngu-1"
+  }, {
+    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12804,
+    "title" : "ngon-ngu-2"
+  }, {
+    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19852,
+    "title" : "ngon-ngu-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-1.mp3",
+    "title" : "ngon-ngu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-2.mp3",
+    "title" : "ngon-ngu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-3.mp3",
+    "title" : "ngon-ngu-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

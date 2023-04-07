@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-cua-may-man_19358.html",
+    "title" : "Bí Mật Của May Mắn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alex Rovira",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 7505,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_c4dbbe585a7d260993f1a18cfbccbe66.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_c4dbbe585a7d260993f1a18cfbccbe66.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bimatcuamayman/B%C3%AD%20M%E1%BA%ADt%20C%E1%BB%A7a%20May%20M%E1%BA%AFn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7505,
+    "title" : "Bí Mật Của May Mắn"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bimatcuamayman/B%C3%AD%20M%E1%BA%ADt%20C%E1%BB%A7a%20May%20M%E1%BA%AFn.mp3",
+    "title" : "Bí Mật Của May Mắn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

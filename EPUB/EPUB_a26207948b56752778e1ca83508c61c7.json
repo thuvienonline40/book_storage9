@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thoi-mien-bang-ngon-tu_19335.html",
+    "title" : "Thôi Miên Bằng Ngôn Từ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Joe Vitale",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 32914,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_a26207948b56752778e1ca83508c61c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_a26207948b56752778e1ca83508c61c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE"
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE"
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE"
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE"
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4114,
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/1.mp3",
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/2.mp3",
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/3.mp3",
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/4.mp3",
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-mien-bang-ngon-tu/5.mp3",
+    "title" : "Full quyển sách THÔI MIÊN BẰNG NGÔN TỪ by JOE VITALE",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

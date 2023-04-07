@@ -1,0 +1,536 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-muu-thay-nao_19589.html",
+    "title" : "Âm Mưu Thay Não",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giản Tư Hải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 37039,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_0958ccb020ffaf15fe0752369a697e73.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_0958ccb020ffaf15fe0752369a697e73.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL001%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 45,
+    "title" : "SNNL001 ― Âm Mưu Thay Não ― Giới Thiệu"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL002%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20T%C3%B3m%20T%E1%BA%AFt%20T%C3%A1c%20Ph%E1%BA%A9m.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 80,
+    "title" : "SNNL002 ― Âm Mưu Thay Não ― Tóm Tắt Tác Phẩm"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL003%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1206,
+    "title" : "SNNL003 ― Âm Mưu Thay Não ― Chương 1"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL004%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "SNNL004 ― Âm Mưu Thay Não ― Chương 2"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL005%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "SNNL005 ― Âm Mưu Thay Não ― Chương 3"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL006%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 241,
+    "title" : "SNNL006 ― Âm Mưu Thay Não ― Chương 4"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL007%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 790,
+    "title" : "SNNL007 ― Âm Mưu Thay Não ― Chương 5"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL008%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 970,
+    "title" : "SNNL008 ― Âm Mưu Thay Não ― Chương 6"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL009%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 811,
+    "title" : "SNNL009 ― Âm Mưu Thay Não ― Chương 7"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL010%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 910,
+    "title" : "SNNL010 ― Âm Mưu Thay Não ― Chương 8"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL011%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 618,
+    "title" : "SNNL011 ― Âm Mưu Thay Não ― Chương 9"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL012%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1037,
+    "title" : "SNNL012 ― Âm Mưu Thay Não ― Chương 10"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL013%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 342,
+    "title" : "SNNL013 ― Âm Mưu Thay Não ― Chương 11"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL014%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 456,
+    "title" : "SNNL014 ― Âm Mưu Thay Não ― Chương 12"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL015%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 527,
+    "title" : "SNNL015 ― Âm Mưu Thay Não ― Chương 13"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL016%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 470,
+    "title" : "SNNL016 ― Âm Mưu Thay Não ― Chương 14"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL017%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 197,
+    "title" : "SNNL017 ― Âm Mưu Thay Não ― Chương 15"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL018%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 911,
+    "title" : "SNNL018 ― Âm Mưu Thay Não ― Chương 16"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL019%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 668,
+    "title" : "SNNL019 ― Âm Mưu Thay Não ― Chương 17"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL020%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 948,
+    "title" : "SNNL020 ― Âm Mưu Thay Não ― Chương 18"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL021%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 671,
+    "title" : "SNNL021 ― Âm Mưu Thay Não ― Chương 19"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL022%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 223,
+    "title" : "SNNL022 ― Âm Mưu Thay Não ― Chương 20"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL023%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 428,
+    "title" : "SNNL023 ― Âm Mưu Thay Não ― Chương 21"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL024%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 804,
+    "title" : "SNNL024 ― Âm Mưu Thay Não ― Chương 22"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL025%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 723,
+    "title" : "SNNL025 ― Âm Mưu Thay Não ― Chương 23"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL026%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 620,
+    "title" : "SNNL026 ― Âm Mưu Thay Não ― Chương 24"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL027%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 784,
+    "title" : "SNNL027 ― Âm Mưu Thay Não ― Chương 25"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL028%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 279,
+    "title" : "SNNL028 ― Âm Mưu Thay Não ― Chương 26"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL029%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1016,
+    "title" : "SNNL029 ― Âm Mưu Thay Não ― Chương 27"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL030%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 324,
+    "title" : "SNNL030 ― Âm Mưu Thay Não ― Chương 28"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL031%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1330,
+    "title" : "SNNL031 ― Âm Mưu Thay Não ― Chương 29"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL032%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 978,
+    "title" : "SNNL032 ― Âm Mưu Thay Não ― Chương 30"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL033%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1123,
+    "title" : "SNNL033 ― Âm Mưu Thay Não ― Chương 31"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL034%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1178,
+    "title" : "SNNL034 ― Âm Mưu Thay Não ― Chương 32"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL035%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 713,
+    "title" : "SNNL035 ― Âm Mưu Thay Não ― Chương 33"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL036%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 569,
+    "title" : "SNNL036 ― Âm Mưu Thay Não ― Chương 34"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL037%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2035.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 712,
+    "title" : "SNNL037 ― Âm Mưu Thay Não ― Chương 35"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL038%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 768,
+    "title" : "SNNL038 ― Âm Mưu Thay Não ― Chương 36"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL039%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2037.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1068,
+    "title" : "SNNL039 ― Âm Mưu Thay Não ― Chương 37"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL040%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2038.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1298,
+    "title" : "SNNL040 ― Âm Mưu Thay Não ― Chương 38"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL041%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 489,
+    "title" : "SNNL041 ― Âm Mưu Thay Não ― Chương 39"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL042%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2040.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 555,
+    "title" : "SNNL042 ― Âm Mưu Thay Não ― Chương 40"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL043%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2041.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 391,
+    "title" : "SNNL043 ― Âm Mưu Thay Não ― Chương 41"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL044%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2042.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 667,
+    "title" : "SNNL044 ― Âm Mưu Thay Não ― Chương 42"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL045%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2043.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 710,
+    "title" : "SNNL045 ― Âm Mưu Thay Não ― Chương 43"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL046%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2044.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 546,
+    "title" : "SNNL046 ― Âm Mưu Thay Não ― Chương 44"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL047%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2045.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1145,
+    "title" : "SNNL047 ― Âm Mưu Thay Não ― Chương 45"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL048%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2046.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 949,
+    "title" : "SNNL048 ― Âm Mưu Thay Não ― Chương 46"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL049%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2047.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1184,
+    "title" : "SNNL049 ― Âm Mưu Thay Não ― Chương 47"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL050%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2048.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1253,
+    "title" : "SNNL050 ― Âm Mưu Thay Não ― Chương 48"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL001%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "title" : "SNNL001 ― Âm Mưu Thay Não ― Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL002%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20T%C3%B3m%20T%E1%BA%AFt%20T%C3%A1c%20Ph%E1%BA%A9m.mp3",
+    "title" : "SNNL002 ― Âm Mưu Thay Não ― Tóm Tắt Tác Phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL003%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "title" : "SNNL003 ― Âm Mưu Thay Não ― Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL004%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "title" : "SNNL004 ― Âm Mưu Thay Não ― Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL005%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "title" : "SNNL005 ― Âm Mưu Thay Não ― Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL006%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "title" : "SNNL006 ― Âm Mưu Thay Não ― Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL007%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "title" : "SNNL007 ― Âm Mưu Thay Não ― Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL008%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "title" : "SNNL008 ― Âm Mưu Thay Não ― Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL009%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "title" : "SNNL009 ― Âm Mưu Thay Não ― Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL010%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "title" : "SNNL010 ― Âm Mưu Thay Não ― Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL011%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "title" : "SNNL011 ― Âm Mưu Thay Não ― Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL012%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "title" : "SNNL012 ― Âm Mưu Thay Não ― Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL013%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "title" : "SNNL013 ― Âm Mưu Thay Não ― Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL014%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "title" : "SNNL014 ― Âm Mưu Thay Não ― Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL015%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "title" : "SNNL015 ― Âm Mưu Thay Não ― Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL016%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "title" : "SNNL016 ― Âm Mưu Thay Não ― Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL017%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "title" : "SNNL017 ― Âm Mưu Thay Não ― Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL018%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "title" : "SNNL018 ― Âm Mưu Thay Não ― Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL019%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "title" : "SNNL019 ― Âm Mưu Thay Não ― Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL020%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "title" : "SNNL020 ― Âm Mưu Thay Não ― Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL021%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "title" : "SNNL021 ― Âm Mưu Thay Não ― Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL022%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "title" : "SNNL022 ― Âm Mưu Thay Não ― Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL023%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "title" : "SNNL023 ― Âm Mưu Thay Não ― Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL024%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "title" : "SNNL024 ― Âm Mưu Thay Não ― Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL025%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "title" : "SNNL025 ― Âm Mưu Thay Não ― Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL026%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "title" : "SNNL026 ― Âm Mưu Thay Não ― Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL027%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025.mp3",
+    "title" : "SNNL027 ― Âm Mưu Thay Não ― Chương 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL028%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026.mp3",
+    "title" : "SNNL028 ― Âm Mưu Thay Não ― Chương 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL029%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027.mp3",
+    "title" : "SNNL029 ― Âm Mưu Thay Não ― Chương 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL030%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028.mp3",
+    "title" : "SNNL030 ― Âm Mưu Thay Não ― Chương 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL031%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029.mp3",
+    "title" : "SNNL031 ― Âm Mưu Thay Não ― Chương 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL032%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030.mp3",
+    "title" : "SNNL032 ― Âm Mưu Thay Não ― Chương 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL033%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031.mp3",
+    "title" : "SNNL033 ― Âm Mưu Thay Não ― Chương 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL034%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032.mp3",
+    "title" : "SNNL034 ― Âm Mưu Thay Não ― Chương 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL035%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033.mp3",
+    "title" : "SNNL035 ― Âm Mưu Thay Não ― Chương 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL036%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034.mp3",
+    "title" : "SNNL036 ― Âm Mưu Thay Não ― Chương 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL037%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2035.mp3",
+    "title" : "SNNL037 ― Âm Mưu Thay Não ― Chương 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL038%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2036.mp3",
+    "title" : "SNNL038 ― Âm Mưu Thay Não ― Chương 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL039%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2037.mp3",
+    "title" : "SNNL039 ― Âm Mưu Thay Não ― Chương 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL040%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2038.mp3",
+    "title" : "SNNL040 ― Âm Mưu Thay Não ― Chương 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL041%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2039.mp3",
+    "title" : "SNNL041 ― Âm Mưu Thay Não ― Chương 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL042%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2040.mp3",
+    "title" : "SNNL042 ― Âm Mưu Thay Não ― Chương 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL043%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2041.mp3",
+    "title" : "SNNL043 ― Âm Mưu Thay Não ― Chương 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL044%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2042.mp3",
+    "title" : "SNNL044 ― Âm Mưu Thay Não ― Chương 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL045%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2043.mp3",
+    "title" : "SNNL045 ― Âm Mưu Thay Não ― Chương 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL046%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2044.mp3",
+    "title" : "SNNL046 ― Âm Mưu Thay Não ― Chương 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL047%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2045.mp3",
+    "title" : "SNNL047 ― Âm Mưu Thay Não ― Chương 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL048%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2046.mp3",
+    "title" : "SNNL048 ― Âm Mưu Thay Não ― Chương 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL049%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2047.mp3",
+    "title" : "SNNL049 ― Âm Mưu Thay Não ― Chương 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Am-Muu-Thay-Nao/SNNL050%20%E2%80%95%20%C3%82m%20M%C6%B0u%20Thay%20N%C3%A3o%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2048.mp3",
+    "title" : "SNNL050 ― Âm Mưu Thay Não ― Chương 48",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

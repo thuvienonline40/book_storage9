@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bien-co-mien-tay-hinh-bong-cu_19829.html",
+    "title" : "Biển Cỏ Miền Tây - Hình Bóng Cũ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 5087,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_e5be3e8dd965fe1e35940cf18c1ccb50.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_e5be3e8dd965fe1e35940cf18c1ccb50.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/may-troi/may-troi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5087,
+    "title" : "may-troi"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/may-troi/may-troi.mp3",
+    "title" : "may-troi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

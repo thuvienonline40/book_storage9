@@ -1,0 +1,176 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/noi-nao-co-y-chi-noi-do-co-con-duong_19838.html",
+    "title" : "Nơi Nào Có Ý Chí Nơi Đó Có Con Đường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 30830,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_f764e93566d30bb18ab7df84a6ac0514.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_f764e93566d30bb18ab7df84a6ac0514.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/01.%20KLB_P1A_MucDichTaoNenTinhThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1913,
+    "title" : "01. KLB P1A MucDichTaoNenTinhThan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/01._KLB_P1A_MucDichTaoNenTinhThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1913,
+    "title" : "01. KLB P1A MucDichTaoNenTinhThan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/02.%20KLB_P1B_MucDichTaoNenTinhThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2518,
+    "title" : "02. KLB P1B MucDichTaoNenTinhThan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/02._KLB_P1B_MucDichTaoNenTinhThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2518,
+    "title" : "02. KLB P1B MucDichTaoNenTinhThan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/03.%20KLB_P2_SuDamMeTaoNguonNangLuongVoHan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2392,
+    "title" : "03. KLB P2 SuDamMeTaoNguonNangLuongVoHan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/03._KLB_P2_SuDamMeTaoNguonNangLuongVoHan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2392,
+    "title" : "03. KLB P2 SuDamMeTaoNguonNangLuongVoHan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/04.%20KLB_P3_NiemTinGiuVungBuocChan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "04. KLB P3 NiemTinGiuVungBuocChan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/04._KLB_P3_NiemTinGiuVungBuocChan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "04. KLB P3 NiemTinGiuVungBuocChan"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/05.%20KLB_P4_LapkeHoachChoTuongLai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2093,
+    "title" : "05. KLB P4 LapkeHoachChoTuongLai"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/05._KLB_P4_LapkeHoachChoTuongLai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2093,
+    "title" : "05. KLB P4 LapkeHoachChoTuongLai"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/06.%20KLB_P5_DongDoiTaoNenSucManh_P6A_SuSangTaoMangDenNhungKhaNangLon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "06. KLB P5 DongDoiTaoNenSucManh P6A SuSangTaoMangDenNhungKhaNangLon"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/06._KLB_P5_DongDoiTaoNenSucManh_P6A_SuSangTaoMangDenNhungKhaNangLon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "06. KLB P5 DongDoiTaoNenSucManh P6A SuSangTaoMangDenNhungKhaNangLon"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/07.%20KLB_P6B_SuSangTaoMangDenNhungKhaNangLon_P7_KienTriChiaKhoaCuaThanhCong_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1579,
+    "title" : "07. KLB P6B SuSangTaoMangDenNhungKhaNangLon P7 KienTriChiaKhoaCuaThanhCong HET"
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/07._KLB_P6B_SuSangTaoMangDenNhungKhaNangLon_P7_KienTriChiaKhoaCuaThanhCong_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1579,
+    "title" : "07. KLB P6B SuSangTaoMangDenNhungKhaNangLon P7 KienTriChiaKhoaCuaThanhCong HET"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/01.%20KLB_P1A_MucDichTaoNenTinhThan.mp3",
+    "title" : "01. KLB P1A MucDichTaoNenTinhThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/01._KLB_P1A_MucDichTaoNenTinhThan.mp3",
+    "title" : "01. KLB P1A MucDichTaoNenTinhThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/02.%20KLB_P1B_MucDichTaoNenTinhThan.mp3",
+    "title" : "02. KLB P1B MucDichTaoNenTinhThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/02._KLB_P1B_MucDichTaoNenTinhThan.mp3",
+    "title" : "02. KLB P1B MucDichTaoNenTinhThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/03.%20KLB_P2_SuDamMeTaoNguonNangLuongVoHan.mp3",
+    "title" : "03. KLB P2 SuDamMeTaoNguonNangLuongVoHan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/03._KLB_P2_SuDamMeTaoNguonNangLuongVoHan.mp3",
+    "title" : "03. KLB P2 SuDamMeTaoNguonNangLuongVoHan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/04.%20KLB_P3_NiemTinGiuVungBuocChan.mp3",
+    "title" : "04. KLB P3 NiemTinGiuVungBuocChan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/04._KLB_P3_NiemTinGiuVungBuocChan.mp3",
+    "title" : "04. KLB P3 NiemTinGiuVungBuocChan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/05.%20KLB_P4_LapkeHoachChoTuongLai.mp3",
+    "title" : "05. KLB P4 LapkeHoachChoTuongLai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/05._KLB_P4_LapkeHoachChoTuongLai.mp3",
+    "title" : "05. KLB P4 LapkeHoachChoTuongLai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/06.%20KLB_P5_DongDoiTaoNenSucManh_P6A_SuSangTaoMangDenNhungKhaNangLon.mp3",
+    "title" : "06. KLB P5 DongDoiTaoNenSucManh P6A SuSangTaoMangDenNhungKhaNangLon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/06._KLB_P5_DongDoiTaoNenSucManh_P6A_SuSangTaoMangDenNhungKhaNangLon.mp3",
+    "title" : "06. KLB P5 DongDoiTaoNenSucManh P6A SuSangTaoMangDenNhungKhaNangLon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/07.%20KLB_P6B_SuSangTaoMangDenNhungKhaNangLon_P7_KienTriChiaKhoaCuaThanhCong_HET.mp3",
+    "title" : "07. KLB P6B SuSangTaoMangDenNhungKhaNangLon P7 KienTriChiaKhoaCuaThanhCong HET",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-lui-buoc.sna/07._KLB_P6B_SuSangTaoMangDenNhungKhaNangLon_P7_KienTriChiaKhoaCuaThanhCong_HET.mp3",
+    "title" : "07. KLB P6B SuSangTaoMangDenNhungKhaNangLon P7 KienTriChiaKhoaCuaThanhCong HET",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

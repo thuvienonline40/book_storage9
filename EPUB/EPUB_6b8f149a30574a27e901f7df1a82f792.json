@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-de-nuoi-day-con-cai-tro-nen-thanh-cong-va-hanh-phuc_19496.html",
+    "title" : "Bí Quyết Để Nuôi Dạy Con Cái Trở Nên Thành Công Và Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tom Corley",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16050,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_6b8f149a30574a27e901f7df1a82f792.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_6b8f149a30574a27e901f7df1a82f792.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/rich-1/rich-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "rich-1"
+  }, {
+    "href" : "https://archive.org/download/rich-1/rich-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "rich-2"
+  }, {
+    "href" : "https://archive.org/download/rich-1/rich-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "rich-3"
+  }, {
+    "href" : "https://archive.org/download/rich-1/rich-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "rich-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/rich-1/rich-1.mp3",
+    "title" : "rich-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-1/rich-2.mp3",
+    "title" : "rich-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-1/rich-3.mp3",
+    "title" : "rich-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-1/rich-4.mp3",
+    "title" : "rich-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

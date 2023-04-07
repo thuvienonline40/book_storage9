@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/loi-khuyen-tu-nhung-nha-co-van-hang-dau-the-gioi_19504.html",
+    "title" : "Lời Khuyên Từ Những Nhà Cố Vấn Hàng Đầu Thế Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Timothy Ferriss",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 33968,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_20d0f69575475565ded21da1ef9e1367.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_20d0f69575475565ded21da1ef9e1367.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-1"
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-2"
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-3"
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "loi-khuyen-4"
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5168,
+    "title" : "loi-khuyen-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-1.mp3",
+    "title" : "loi-khuyen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-2.mp3",
+    "title" : "loi-khuyen-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-3.mp3",
+    "title" : "loi-khuyen-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-4.mp3",
+    "title" : "loi-khuyen-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-khuyen-1/loi-khuyen-5.mp3",
+    "title" : "loi-khuyen-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

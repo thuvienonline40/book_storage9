@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xay-dung-de-che-kinh-doanh-tu-con-so-0_19492.html",
+    "title" : "Xây Dựng Đế Chế Kinh Doanh Từ Con Số 0",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Welch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 39757,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_6215c6d6c0eee5c5a53233c55c08305e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_6215c6d6c0eee5c5a53233c55c08305e.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/business-1/Business-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Business-1"
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Business-2"
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Business-3"
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Business-4"
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Business-5"
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "Business-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/business-1/Business-1.mp3",
+    "title" : "Business-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-2.mp3",
+    "title" : "Business-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-3.mp3",
+    "title" : "Business-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-4.mp3",
+    "title" : "Business-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-5.mp3",
+    "title" : "Business-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/business-1/Business-6.mp3",
+    "title" : "Business-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

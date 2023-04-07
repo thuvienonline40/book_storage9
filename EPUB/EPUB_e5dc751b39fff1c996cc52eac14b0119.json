@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thang-ba-gay-sung_19705.html",
+    "title" : "Tháng Ba Gãy Súng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cao Xuân Huy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 13113,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_e5dc751b39fff1c996cc52eac14b0119.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_e5dc751b39fff1c996cc52eac14b0119.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thang-ba-1"
+  }, {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thang-ba-2"
+  }, {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thang-ba-3"
+  }, {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2313,
+    "title" : "thang-ba-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-1.mp3",
+    "title" : "thang-ba-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-2.mp3",
+    "title" : "thang-ba-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-3.mp3",
+    "title" : "thang-ba-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thang-ba-1/thang-ba-4.mp3",
+    "title" : "thang-ba-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

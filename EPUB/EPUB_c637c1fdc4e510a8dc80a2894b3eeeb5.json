@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-khuc-chieu-thu_19436.html",
+    "title" : "Tình Khúc Chiều Thu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 24070,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_c637c1fdc4e510a8dc80a2894b3eeeb5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_c637c1fdc4e510a8dc80a2894b3eeeb5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6120,
+    "title" : "tinh-khuc-1"
+  }, {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6120,
+    "title" : "tinh-khuc-2"
+  }, {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6120,
+    "title" : "tinh-khuc-3"
+  }, {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5710,
+    "title" : "tinh-khuc-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-1.mp3",
+    "title" : "tinh-khuc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-2.mp3",
+    "title" : "tinh-khuc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-3.mp3",
+    "title" : "tinh-khuc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-4.mp3",
+    "title" : "tinh-khuc-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

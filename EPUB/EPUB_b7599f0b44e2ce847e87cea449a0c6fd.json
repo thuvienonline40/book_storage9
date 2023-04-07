@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phep-mau-de-tro-thanh-chinh-minh_19509.html",
+    "title" : "Phép Màu Để Trở Thành Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhan Húc Quân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16548,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_b7599f0b44e2ce847e87cea449a0c6fd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_b7599f0b44e2ce847e87cea449a0c6fd.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2842,
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 01"
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3499,
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 02"
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2339,
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 03"
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2568,
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 04"
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2108,
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 05"
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 06"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_01.mp3",
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_02.mp3",
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_03.mp3",
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_04.mp3",
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_05.mp3",
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phep-mau-de-tro-thanh-chinh-minh.sna/PHEP_MAU_DE_TRO_THANH_CHINH_MINH_06.mp3",
+    "title" : "PHEP MAU DE TRO THANH CHINH MINH 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

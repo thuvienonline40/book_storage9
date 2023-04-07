@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-hung-linh-nam_19699.html",
+    "title" : "Anh Hùng Lĩnh Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yên Tử Cư Sĩ Trần Đại Sỹ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 145338,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_cefc4c8b4ef283a987eb59a531c21dbd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_cefc4c8b4ef283a987eb59a531c21dbd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 29123,
+    "title" : "anh-hung-1"
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 30268,
+    "title" : "anh-hung-2"
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 31324,
+    "title" : "anh-hung-3"
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 28188,
+    "title" : "anh-hung-4"
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 26435,
+    "title" : "anh-hung-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-1.mp3",
+    "title" : "anh-hung-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-2.mp3",
+    "title" : "anh-hung-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-3.mp3",
+    "title" : "anh-hung-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-4.mp3",
+    "title" : "anh-hung-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hung-3/anh-hung-5.mp3",
+    "title" : "anh-hung-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

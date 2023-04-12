@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/15-guong-phu-nu-nhung-bai-hoc-thanh-cong_20010.html",
+    "title" : "15 Gương Phụ Nữ, Những Bài Học Thành Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 13505,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_c5b0725ead777ac004072928a6677a38.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_c5b0725ead777ac004072928a6677a38.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "15-guong-1"
+  }, {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "15-guong-2"
+  }, {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "15-guong-3"
+  }, {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2705,
+    "title" : "15-guong-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-1.mp3",
+    "title" : "15-guong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-2.mp3",
+    "title" : "15-guong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-3.mp3",
+    "title" : "15-guong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/15-guong-1/15-guong-4.mp3",
+    "title" : "15-guong-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-vuot-nguc-than-tien_20096.html",
+    "title" : "Cuộc Vượt Ngục Thần Tiên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Thạch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 5438,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_da250e5f30d5419de011a5f85f6b9f9d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_da250e5f30d5419de011a5f85f6b9f9d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuot-nguc/vuot-nguc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5438,
+    "title" : "Hồi Ký Miền Nam | Cuộc Vượt Ngục Thần Tiên (Full)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuot-nguc/vuot-nguc.mp3",
+    "title" : "Hồi Ký Miền Nam | Cuộc Vượt Ngục Thần Tiên (Full)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

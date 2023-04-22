@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-yeu-va-thu-han_20056.html",
+    "title" : "Tình Yêu Và Thù Hận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bà Tùng Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 31015,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_9e45558a4ebe4d4cfb2b67b756722d70.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_9e45558a4ebe4d4cfb2b67b756722d70.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2752,
+    "title" : "Tình yêu và thù hận - Chương 1 - Tác giả Bà Tùng Long"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2354,
+    "title" : "Chương 2"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2866,
+    "title" : "Chương 3"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "Chương 4"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2670,
+    "title" : "Chương 5"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2329,
+    "title" : "Chương 6"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Chương 7"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "Chương 8"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "Chương 9"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "Chương 9"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "Chương 10"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-01.mp3",
+    "title" : "Tình yêu và thù hận - Chương 1 - Tác giả Bà Tùng Long",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-02.mp3",
+    "title" : "Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-03.mp3",
+    "title" : "Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-04.mp3",
+    "title" : "Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-05.mp3",
+    "title" : "Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-06.mp3",
+    "title" : "Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-07.mp3",
+    "title" : "Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-08.mp3",
+    "title" : "Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-09.mp3",
+    "title" : "Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-10.mp3",
+    "title" : "Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-11/tinh-yeu-11.mp3",
+    "title" : "Chương 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

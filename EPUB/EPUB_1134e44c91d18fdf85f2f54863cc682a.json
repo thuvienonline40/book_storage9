@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bien-ho-trang-an_20014.html",
+    "title" : "Biện Hộ Trắng Án",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Hải Sinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 44829,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_1134e44c91d18fdf85f2f54863cc682a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_1134e44c91d18fdf85f2f54863cc682a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bien-ho-trang-an/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5996,
+    "title" : "[Phần 1] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4667,
+    "title" : "[Phần 2] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5763,
+    "title" : "[Phần 3] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4428,
+    "title" : "[Phần 4] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4897,
+    "title" : "[Phần 5] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5176,
+    "title" : "[Phần 6] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5010,
+    "title" : "[Phần 7] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4352,
+    "title" : "[Phần 8] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4540,
+    "title" : "[Phần cuối Q1] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bien-ho-trang-an/1.mp3",
+    "title" : "[Phần 1] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/2.mp3",
+    "title" : "[Phần 2] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/3.mp3",
+    "title" : "[Phần 3] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/4.mp3",
+    "title" : "[Phần 4] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/5.mp3",
+    "title" : "[Phần 5] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/6.mp3",
+    "title" : "[Phần 6] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/7.mp3",
+    "title" : "[Phần 7] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/8.mp3",
+    "title" : "[Phần 8] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-ho-trang-an/9.mp3",
+    "title" : "[Phần cuối Q1] MATEAN đọc BIỆN HỘ TRẮNG ÁN của tác giả Trương Hải Sinh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

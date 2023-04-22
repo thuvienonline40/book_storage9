@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/7-bi-quyet-song-hanh-phuc_20074.html",
+    "title" : "7 Bí Quyết Sống Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 11156,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_b7461c3d5019cd423c9d899e7342796f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_b7461c3d5019cd423c9d899e7342796f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1966,
+    "title" : "01_Bay bi quyet song hanh phuc_KHanh_dau-14"
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1326,
+    "title" : "02_Hanh kien nhan_TAnh_15-26"
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1384,
+    "title" : "03_Gui ban_TAnh_27-37"
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1642,
+    "title" : "04_Trach nhiem o noi minh_KHanh_39-51"
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "05_Phuong cach doi pho voi benh_KHanh_TAnh_52-66"
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1729,
+    "title" : "06_Nhung loi day vuot thoi gain_TAnh_67-78"
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1365,
+    "title" : "07_Cu hanh di_TAnh_79-HET"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-1.mp3",
+    "title" : "01_Bay bi quyet song hanh phuc_KHanh_dau-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-2.mp3",
+    "title" : "02_Hanh kien nhan_TAnh_15-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-3.mp3",
+    "title" : "03_Gui ban_TAnh_27-37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-4.mp3",
+    "title" : "04_Trach nhiem o noi minh_KHanh_39-51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-5.mp3",
+    "title" : "05_Phuong cach doi pho voi benh_KHanh_TAnh_52-66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-6.mp3",
+    "title" : "06_Nhung loi day vuot thoi gain_TAnh_67-78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-7/7-bi-7.mp3",
+    "title" : "07_Cu hanh di_TAnh_79-HET",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

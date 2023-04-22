@@ -1,0 +1,216 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nang-tam-dich-vu_20040.html",
+    "title" : "Nâng Tầm Dịch Vụ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ron Kaufman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 34436,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_5aa9e4e8ae01db53dc66324af36738c2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_5aa9e4e8ae01db53dc66324af36738c2.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/01.GioiThieu_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2483,
+    "title" : "01.GioiThieu NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/02.P01A_C01_HanhTrinhDenVoiMotVanHoaMoi_TaiSao_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1396,
+    "title" : "02.P01A C01 HanhTrinhDenVoiMotVanHoaMoi TaiSao NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/03.P01B_C02_CuaNgoDanDenNhungKhaNang_TaiSao_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1170,
+    "title" : "03.P01B C02 CuaNgoDanDenNhungKhaNang TaiSao NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/04.P01C_C03_ConDuongDaDuocChungMinh_TaiSao_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1342,
+    "title" : "04.P01C C03 ConDuongDaDuocChungMinh TaiSao NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/05.P02A_C04_GiuVaiTroLanhDao_DanDau_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1702,
+    "title" : "05.P02A C04 GiuVaiTroLanhDao DanDau NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/06.P02B_C05_DanDauTuMoiCapDo_DanDau_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1736,
+    "title" : "06.P02B C05 DanDauTuMoiCapDo DanDau NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/07.P02C_C06_HanhTrinhTienToiSuViDai_DanDau_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1367,
+    "title" : "07.P02C C06 HanhTrinhTienToiSuViDai DanDau NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/08.P03A_C0708_XayDung_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1596,
+    "title" : "08.P03A C0708 XayDung NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/09.P03B_C0910_XayDung_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "09.P03B C0910 XayDung NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/10.P03C_C111213_XayDung_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2107,
+    "title" : "10.P03C C111213 XayDung NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/11.P03D_C1415_XayDung_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2055,
+    "title" : "11.P03D C1415 XayDung NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/12.P03E_C16_XayDung_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "12.P03E C16 XayDung NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/13.P03F_C1718_XayDung_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "13.P03F C1718 XayDung NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/14.P04A_C1920_HocHoi_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1575,
+    "title" : "14.P04A C1920 HocHoi NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/15.P04B_C2122_HocHoi_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "15.P04B C2122 HocHoi NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/16.P04C_C2324_HocHoi_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3007,
+    "title" : "16.P04C C2324 HocHoi NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/17.P05A_C2526_TrienKhai_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "17.P05A C2526 TrienKhai NangTamDichVu"
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/18.P05B_C27_HET_TrienKhai_NangTamDichVu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1486,
+    "title" : "18.P05B C27 HET TrienKhai NangTamDichVu"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/01.GioiThieu_NangTamDichVu.mp3",
+    "title" : "01.GioiThieu NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/02.P01A_C01_HanhTrinhDenVoiMotVanHoaMoi_TaiSao_NangTamDichVu.mp3",
+    "title" : "02.P01A C01 HanhTrinhDenVoiMotVanHoaMoi TaiSao NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/03.P01B_C02_CuaNgoDanDenNhungKhaNang_TaiSao_NangTamDichVu.mp3",
+    "title" : "03.P01B C02 CuaNgoDanDenNhungKhaNang TaiSao NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/04.P01C_C03_ConDuongDaDuocChungMinh_TaiSao_NangTamDichVu.mp3",
+    "title" : "04.P01C C03 ConDuongDaDuocChungMinh TaiSao NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/05.P02A_C04_GiuVaiTroLanhDao_DanDau_NangTamDichVu.mp3",
+    "title" : "05.P02A C04 GiuVaiTroLanhDao DanDau NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/06.P02B_C05_DanDauTuMoiCapDo_DanDau_NangTamDichVu.mp3",
+    "title" : "06.P02B C05 DanDauTuMoiCapDo DanDau NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/07.P02C_C06_HanhTrinhTienToiSuViDai_DanDau_NangTamDichVu.mp3",
+    "title" : "07.P02C C06 HanhTrinhTienToiSuViDai DanDau NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/08.P03A_C0708_XayDung_NangTamDichVu.mp3",
+    "title" : "08.P03A C0708 XayDung NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/09.P03B_C0910_XayDung_NangTamDichVu.mp3",
+    "title" : "09.P03B C0910 XayDung NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/10.P03C_C111213_XayDung_NangTamDichVu.mp3",
+    "title" : "10.P03C C111213 XayDung NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/11.P03D_C1415_XayDung_NangTamDichVu.mp3",
+    "title" : "11.P03D C1415 XayDung NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/12.P03E_C16_XayDung_NangTamDichVu.mp3",
+    "title" : "12.P03E C16 XayDung NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/13.P03F_C1718_XayDung_NangTamDichVu.mp3",
+    "title" : "13.P03F C1718 XayDung NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/14.P04A_C1920_HocHoi_NangTamDichVu.mp3",
+    "title" : "14.P04A C1920 HocHoi NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/15.P04B_C2122_HocHoi_NangTamDichVu.mp3",
+    "title" : "15.P04B C2122 HocHoi NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/16.P04C_C2324_HocHoi_NangTamDichVu.mp3",
+    "title" : "16.P04C C2324 HocHoi NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/17.P05A_C2526_TrienKhai_NangTamDichVu.mp3",
+    "title" : "17.P05A C2526 TrienKhai NangTamDichVu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-tam-dich-vu.sna/18.P05B_C27_HET_TrienKhai_NangTamDichVu.mp3",
+    "title" : "18.P05B C27 HET TrienKhai NangTamDichVu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

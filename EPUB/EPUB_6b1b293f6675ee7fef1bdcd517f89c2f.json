@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghe-thuat-ban-hang-giai-ma-thanh-cong_20043.html",
+    "title" : "Nghệ Thuật Bán Hàng, Giải Mã Thành Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Cao Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 16937,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/EPUB/EPUB_6b1b293f6675ee7fef1bdcd517f89c2f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage9/main/IMAGE/IMAGE_6b1b293f6675ee7fef1bdcd517f89c2f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/01.NTBH_MoDauP1_C1C2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1691,
+    "title" : "01.NTBH MoDauP1 C1C2"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/02.NTBH_P2_C1C2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1590,
+    "title" : "02.NTBH P2 C1C2"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/03.NTBH_P3A_C1C2C3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1676,
+    "title" : "03.NTBH P3A C1C2C3"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/04.NTBH_P3B_C6A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1991,
+    "title" : "04.NTBH P3B C6A"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/05.NTBH_P3C_C6B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1278,
+    "title" : "05.NTBH P3C C6B"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/06.NTBH_P4A_C1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1666,
+    "title" : "06.NTBH P4A C1"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/07.NTBH_P4B_C2C3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1546,
+    "title" : "07.NTBH P4B C2C3"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/08.NTBH_P4C_C4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2186,
+    "title" : "08.NTBH P4C C4"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/09.NTBH_P4D_C5C6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "09.NTBH P4D C5C6"
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/10.NTBH_P4E_C7C8_LoiKet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1306,
+    "title" : "10.NTBH P4E C7C8 LoiKet"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/01.NTBH_MoDauP1_C1C2.mp3",
+    "title" : "01.NTBH MoDauP1 C1C2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/02.NTBH_P2_C1C2.mp3",
+    "title" : "02.NTBH P2 C1C2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/03.NTBH_P3A_C1C2C3.mp3",
+    "title" : "03.NTBH P3A C1C2C3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/04.NTBH_P3B_C6A.mp3",
+    "title" : "04.NTBH P3B C6A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/05.NTBH_P3C_C6B.mp3",
+    "title" : "05.NTBH P3C C6B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/06.NTBH_P4A_C1.mp3",
+    "title" : "06.NTBH P4A C1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/07.NTBH_P4B_C2C3.mp3",
+    "title" : "07.NTBH P4B C2C3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/08.NTBH_P4C_C4.mp3",
+    "title" : "08.NTBH P4C C4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/09.NTBH_P4D_C5C6.mp3",
+    "title" : "09.NTBH P4D C5C6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-ban-hang-giai-ma-thanh-cong.sna/10.NTBH_P4E_C7C8_LoiKet.mp3",
+    "title" : "10.NTBH P4E C7C8 LoiKet",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

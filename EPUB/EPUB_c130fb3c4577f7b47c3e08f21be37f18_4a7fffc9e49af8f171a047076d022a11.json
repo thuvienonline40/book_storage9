@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-30",
+    "published" : "2023-05-01",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -31,13 +31,21 @@
     "type" : "application/divina+json"
   } ],
   "readingOrder" : [ {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/1.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_a10910338c08ed61ff7e1168e561a0be.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/1.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -47,13 +55,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/2.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_afba302a3a403f8d6dec768c306d9efb.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/2.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/2.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -63,13 +79,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/3.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_507b06f72289fbb58fddfc45112b1893.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/3.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/3.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -79,13 +103,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/4.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_f6d3a3b066073ecfabc9d84bb4728bf0.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/4.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -95,13 +127,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/5.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_a159afc04e20ce819f50e2fa427d8727.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/5.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/5.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -111,13 +151,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/6.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_4fe8540884584f461045c7640600387f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/6.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/6.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -127,13 +175,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/7.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_13238ae33108d712a09a75b48fd32ac4.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/7.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/7.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -143,13 +199,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/8.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_5a6e46a8b0292a2886de7b3d5bd38b77.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/8.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -159,13 +223,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/9.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_319ac7cf5f3ed096bd4c3ac6fe7b023d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/9.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -175,13 +247,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/10.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_59d7343f720bae3dbf3f7af240ea6d9a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/10.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/10.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -191,13 +271,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/11.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_e9433f658d42c9561f01cd90d4bf6a0e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/11.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/11.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -207,13 +295,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/12.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_bd207eebd7c3e956d8454573e502df45.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/12.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/12.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -223,13 +319,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/13.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_ad7353fbdcfe632b19b187986aa0c856.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/13.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/13.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -239,13 +343,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/14.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_4e0b90d6540504143dd7d08ecdac303e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/14.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/14.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -255,13 +367,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/15.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_a5133fb76e93b7bb80c8e6013b275c3e.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/15.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/15.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -271,13 +391,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/16.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_ecee3fec361bf0c98206d655819e341f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/16.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/16.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -287,13 +415,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/17.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_46dbb34b745ee9d4f2f9f4931aa72a0a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/17.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/17.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -303,13 +439,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/18.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_6b12a6d1bc8abd94e4c1ed5495ed2644.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/18.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/18.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -319,13 +463,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/19.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_0ab786e3b482b3299db666ffaa571338.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/19.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/19.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -335,13 +487,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/20.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_25f6f1293dc089ad1590340a62915172.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/20.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/20.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -351,13 +511,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/21.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_0d58d084960a4942c1602c2bcfa82b9a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/21.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/21.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -367,13 +535,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/22.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_81ae43a0d63a5426eab885a427b403a6.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/22.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/22.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -383,13 +559,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/23.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_35c6014505420d5d68791b88dd77e9c3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/23.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/23.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -399,13 +583,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/24.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_2832493cdb56328453bae2b9b6edf3d1.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/24.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/24.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -415,13 +607,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/25.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_9c978c27d74e38cfb00e4ea371518420.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/25.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/25.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -431,13 +631,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/26.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_7423f66958449267447fb0da333f5fb3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/26.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/26.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,
@@ -447,13 +655,21 @@
       "alternate" : null
     } ]
   }, {
-    "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/27.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two9/main/IMAGE/IMAGE_c130fb3c4577f7b47c3e08f21be37f18_4a7fffc9e49af8f171a047076d022a11_afb06e1775fd5ebf91e003c964ad769a.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
     "properties" : null,
     "alternate" : [ {
+      "href" : "https://img.abctruyen.xyz/uploads/19178/chuong-7/27.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
       "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/19178/chuong-7/27.jpg",
       "type" : "image/jpeg",
       "bitrate" : 0,

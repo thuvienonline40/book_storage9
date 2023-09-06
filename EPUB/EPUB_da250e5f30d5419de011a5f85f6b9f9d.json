@@ -13,9 +13,14 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-22",
+    "published" : "2023-09-06",
     "duration" : 5438,
     "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
     "@type" : "http://schema.org/Audiobook",
     "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
   },
@@ -35,7 +40,9 @@
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5438,
-    "title" : "Hồi Ký Miền Nam | Cuộc Vượt Ngục Thần Tiên (Full)"
+    "title" : "Hồi Ký Miền Nam | Cuộc Vượt Ngục Thần Tiên (Full)",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
     "href" : "https://archive.org/download/vuot-nguc/vuot-nguc.mp3",
